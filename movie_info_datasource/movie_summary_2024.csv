@@ -1,0 +1,201 @@
+rank,title,re_release,gross,num_theaters,total_gross,date,distributor
+1,Dune: Part Two,,"$282,110,347","4,074","$282,110,347",Mar 1,Warner Bros.
+2,Godzilla x Kong: The New Empire,,"$192,535,005","3,948","$192,535,005",Mar 29,Warner Bros.
+3,Kung Fu Panda 4,,"$191,571,760","4,067","$191,571,760",Mar 8,Universal Pictures
+4,Ghostbusters: Frozen Empire,,"$111,661,566","4,345","$111,661,566",Mar 22,Sony Pictures Releasing
+5,Bob Marley: One Love,,"$96,893,170","3,597","$96,893,170",Feb 14,Paramount Pictures
+6,Wonka,,"$85,272,410","4,213","$218,402,312",Dec 15,Warner Bros.
+7,Migration,,"$73,202,330","3,839","$127,306,285",Dec 22,Universal Pictures
+8,Mean Girls,,"$72,404,248","3,826","$72,404,248",Jan 12,Paramount Pictures
+9,Kingdom of the Planet of the Apes,,"$72,315,820","4,075","$72,315,820",May 10,20th Century Studios
+10,The Beekeeper,,"$66,220,535","3,337","$66,220,535",Jan 12,Metro-Goldwyn-Mayer (MGM)
+11,Civil War,,"$65,214,841","3,929","$63,410,199",Apr 12,A24
+12,Anyone But You,,"$63,482,283","3,055","$88,319,668",Dec 22,Columbia Pictures
+13,The Fall Guy,,"$53,542,050","4,008","$53,542,050",May 3,Universal Pictures
+14,Aquaman and the Lost Kingdom,,"$48,011,513","3,787","$124,481,226",Dec 22,Warner Bros.
+15,Argylle,,"$45,207,275","3,647","$45,207,275",Feb 2,Universal Pictures International (UPI)
+16,Madame Web,,"$43,817,106","4,013","$43,817,106",Feb 14,Columbia Pictures
+17,Challengers,,"$40,020,372","3,477","$40,020,372",Apr 26,United Artists Releasing
+18,Night Swim,,"$32,494,740","3,257","$32,494,740",Jan 5,Universal Pictures International (UPI)
+19,The Boys in the Boat,,"$30,642,834","2,687","$52,641,306",Dec 25,-
+20,Imaginary,,"$28,009,161","3,118","$28,009,161",Mar 8,Lionsgate Films
+21,Abigail,,"$25,162,555","3,393","$25,162,555",Apr 19,Universal Pictures
+22,Monkey Man,,"$25,104,590","3,037","$25,104,590",Apr 5,Universal Pictures
+23,Arthur the King,,"$25,049,006","3,003","$25,049,006",Mar 15,Lionsgate Films
+24,Poor Things,,"$24,284,189","2,300","$34,553,225",Dec 8,Searchlight Pictures
+25,The Ministry of Ungentlemanly Warfare,,"$20,030,691","2,845","$20,030,691",Apr 19,Lionsgate Films
+26,The First Omen,,"$19,916,431","3,375","$19,916,431",Apr 5,Walt Disney Studios Motion Pictures
+27,Cabrini,,"$19,496,272","2,850","$19,496,272",Mar 8,Angel Studios
+28,American Fiction,,"$19,442,987","1,902","$21,098,470",Dec 15,Metro-Goldwyn-Mayer (MGM)
+29,Ordinary Angels,,"$19,174,421","3,020","$19,174,421",Feb 23,-
+30,The Iron Claw,,"$19,110,429","2,794","$35,070,296",Dec 22,A24
+31,Unsung Hero,,"$17,812,210","2,832","$17,812,210",Apr 26,Lionsgate Films
+32,Demon Slayer: Kimetsu No Yaiba - To the Hashira Training,,"$17,657,658","1,949","$17,657,658",Feb 23,Sony Pictures Releasing
+33,The Color Purple,,"$16,571,549","3,218","$60,619,191",Dec 25,Warner Bros.
+34,Immaculate,,"$15,671,307","2,362","$15,671,307",Mar 22,-
+35,The Chosen: S4 Episodes 1-3,,"$14,410,169","2,280","$14,409,169",Feb 1,Fathom Events
+36,Tarot,,"$13,169,327","3,104","$13,169,327",May 3,Screen Gems
+37,Star Wars: Episode I - The Phantom Menace,2024 Re-release,"$12,587,146","2,700","$12,587,146",May 3,Walt Disney Studios Motion Pictures
+38,The Boy and the Heron,,"$10,977,164","2,325","$46,823,719",Dec 8,GKIDS
+39,Godzilla Minus One,,"$10,838,381","2,622","$56,418,793",Dec 1,-
+40,The Chosen: S4 Episodes 4-6,,"$10,797,328","2,272","$9,482,744",Feb 15,Fathom Events
+41,Late Night with the Devil,,"$9,950,234","1,442","$9,950,234",Mar 22,IFC Films
+42,Lisa Frankenstein,,"$9,774,285","3,144","$9,774,285",Feb 9,Focus Features
+43,Love Lies Bleeding,,"$8,335,797","1,828","$8,335,797",Mar 8,A24
+44,The Zone of Interest,,"$8,195,679",598,"$8,659,464",Dec 8,A24
+45,Spy x Family Code: White,,"$8,002,730","2,009","$8,002,730",Apr 19,Crunchyroll
+46,Ferrari,,"$7,771,546","2,386","$18,550,028",Dec 25,Neon
+47,The Chosen: S4 Episodes 7-8,,"$7,729,152","2,215","$7,729,152",Feb 29,Fathom Events
+48,The Hunger Games: The Ballad of Songbirds & Snakes,,"$6,630,969","3,776","$166,350,594",Nov 17,Lionsgate Films
+49,I.S.S.,,"$6,573,799","2,518","$6,573,799",Jan 19,Bleecker Street Media
+50,The Book of Clarence,,"$6,132,813","2,010","$6,132,813",Jan 12,Sony Pictures Releasing
+51,Someone Like You,,"$5,937,306","1,802","$5,937,306",Apr 5,Fathom Events
+52,One Life,,"$5,713,927","1,009","$5,713,927",Mar 15,Bleecker Street Media
+53,Trolls Band Together,,"$5,456,710","3,893","$102,996,915",Nov 17,Universal Pictures
+54,Drive-Away Dolls,,"$5,028,215","2,280","$5,028,215",Feb 23,Focus Features
+55,Origin,,"$4,689,830",664,"$4,689,830",Dec 8,-
+56,Land of Bad,,"$4,620,045","1,317","$4,620,045",Feb 16,The Avenue Entertainment
+57,Wicked Little Letters,,"$4,606,802","1,009","$4,606,802",Mar 29,Sony Pictures Releasing
+58,Columbia 100th Anniversary Series,Columbia 100th Anniversary Series,"$4,400,720",466,"$4,400,720",Apr 15,Sony Pictures Releasing
+59,Oppenheimer,,"$3,761,170","3,761","$329,862,540",Jul 21,Universal Pictures
+60,Perfect Days,,"$3,755,173",271,"$3,755,173",Feb 7,-
+61,All of Us Strangers,,"$3,703,589",295,"$4,050,103",Dec 22,Searchlight Pictures
+62,Shrek 2,2024 Re-release,"$3,427,910","1,512","$3,427,910",Apr 12,DreamWorks
+63,Wish,,"$3,364,674","3,900","$63,973,821",Nov 22,Walt Disney Studios Motion Pictures
+64,2024 Oscar Nominated Short Films: Documentary,,"$3,162,293",367,"$3,162,293",Feb 16,ShortsTV
+65,The Long Game,,"$3,029,493","1,030","$3,029,493",Apr 12,-
+66,The Taste of Things,,"$2,655,074",505,"$2,654,510",Feb 9,IFC Films
+67,Boy Kills World,,"$2,618,001","1,993","$2,618,001",Apr 26,Roadside Attractions
+68,Problemista,,"$2,503,154",379,"$2,503,154",Mar 1,A24
+69,The American Society of Magical Negroes,,"$2,480,645","1,153","$2,480,645",Mar 15,Focus Features
+70,Alien,2024 Re-release,"$2,305,647","1,750","$2,305,647",Apr 26,Walt Disney Studios Motion Pictures
+71,Exhuma,,"$2,287,095",70,"$2,287,095",Mar 15,Well Go USA Entertainment
+72,In the Land of Saints and Sinners,,"$2,258,795",896,"$2,258,795",Mar 29,The Samuel Goldwyn Company
+73,The Holdovers,,"$2,146,720","1,601","$20,355,375",Oct 27,Focus Features
+74,The Ark and the Darkness,,"$2,097,560","1,030","$2,097,560",Mar 20,Fathom Events
+75,Yolo,,"$2,001,584",200,"$2,001,584",Mar 8,Sony Pictures Releasing
+76,Queen Rock Montreal,,"$2,000,000",387,"$2,000,000",Jan 18,-
+77,SUGA: Agust D Tour 'D-DAY' the Movie,,"$1,951,896",787,"$1,951,896",Apr 10,Trafalgar Releasing
+78,Out of Darkness,,"$1,951,547",897,"$1,951,547",Feb 9,Bleecker Street Media
+79,Escape from Germany,,"$1,880,046",131,"$1,865,083",Apr 11,Susan Tuckett Media
+80,Tillu Square,,"$1,870,000",450,"$1,870,000",Mar 29,-
+81,The Mummy,2024 Re-release,"$1,579,230","1,236","$1,579,230",Apr 26,Universal Pictures International (UPI)
+82,Crew,,"$1,500,000",486,"$1,500,000",Mar 29,-
+83,Turning Red,,"$1,399,001","1,560","$1,399,001",Feb 9,Walt Disney Studios Motion Pictures
+84,Anatomy of a Fall,,"$1,328,548",583,"$5,076,369",Oct 13,-
+85,Luca,,"$1,324,302","1,390","$1,324,302",Jun 18,Walt Disney Studios Motion Pictures
+86,Neon Genesis Evangelion: The End of Evangelion,,"$1,302,300",570,"$1,302,300",Mar 17,GKIDS
+87,Sting,,"$1,124,510",975,"$1,124,510",Apr 12,Well Go USA Entertainment
+88,Article 370,,"$1,088,790",161,"$1,088,790",Feb 23,-
+89,Sasquatch Sunset,,"$1,007,928",856,"$1,007,928",Apr 12,Bleecker Street Media
+90,Fighter,,"$1,000,000",662,"$1,000,000",Jan 25,Viva Pictures
+91,Napoleon,,"$990,282","3,500","$61,524,375",Nov 22,Columbia Pictures
+92,Soul,,"$946,154","1,360","$946,154",Jan 12,Walt Disney Studios Motion Pictures
+93,Freud's Last Session,,"$841,503",634,"$906,283",Dec 22,Sony Pictures Releasing
+94,Jungle Bunch: Operation Meltdown,,"$831,200","1,036","$831,200",Feb 2,Viva Pictures
+95,Arcadian,,"$828,919","1,100","$828,919",Apr 12,-
+96,Stopmotion,,"$789,226",384,"$789,226",Feb 23,IFC Films
+97,Dragonkeeper,,"$770,947",760,"$770,947",May 3,Viva Pictures
+98,La Chimera,,"$767,520",216,"$767,520",Mar 29,-
+99,Killers of the Flower Moon,,"$734,740","3,786","$68,026,901",Oct 20,Paramount Pictures
+100,The Roundup: Punishment,,"$700,266",74,"$544,554",Apr 26,Capelight Pictures
+101,Bade Miyan Chote Miyan,,"$689,505",567,"$689,505",Apr 10,Yash Raj Films USA Inc.
+102,Renaissance: A Film by Beyoncé,,"$665,951","2,542","$33,889,684",Dec 1,-
+103,Salaar,,"$660,285",802,"$8,929,282",Dec 22,-
+104,The Teachers' Lounge,,"$596,966",277,"$628,218",Dec 25,Sony Pictures Releasing
+105,Dune,IMAX,"$570,000","2,100","$570,000",Feb 9,IMAX
+106,Winnie-the-Pooh: Blood and Honey 2,,"$533,144","1,489","$533,144",Mar 26,Fathom Events
+107,Not Another Church Movie,,"$517,481","1,108","$517,482",May 10,Briarcliff Entertainment
+108,The Goat Life,,"$510,000",-,"$625,000",Mar 29,AA Films
+109,You Can Call Me Bill,,"$480,991",285,"$480,991",Mar 22,-
+110,Snack Shack,,"$455,708",437,"$455,708",Mar 15,Republic Pictures (II)
+111,Les Misérables,2024 Re-release,"$450,370",162,"$450,370",Feb 23,Universal Pictures
+112,Scrambled,,"$422,555",762,"$422,555",Feb 2,Lionsgate Films
+113,The Beast,,"$373,780",117,"$373,780",Apr 5,Janus Films
+114,I Saw the TV Glow,,"$367,765",469,"$367,765",May 3,A24
+115,Hard Miles,,"$364,479",480,"$366,871",Apr 19,Blue Fox Entertainment
+116,Epic Tails,,"$355,088",773,"$355,088",Apr 5,Viva Pictures
+117,Anselm,,"$349,915",25,"$508,895",Dec 8,Janus Films
+118,Forty-Seven Days with Jesus,,"$348,317",-,"$348,317",Mar 11,Fathom Events
+119,Hundreds of Beavers,,"$344,421",33,"$337,506",Jan 26,SRH
+120,Amélie,2024 Re-release,"$340,945",216,"$486,945",Feb 16,Sony Pictures Releasing
+121,Driving Madeleine,,"$325,351",77,"$325,662",Jan 12,Cohen Media Group
+122,Past Lives,,"$324,667",906,"$11,185,625",Jun 2,A24
+123,Memory,,"$302,971",151,"$381,052",Dec 22,Ketchup Entertainment
+124,Dunki,,"$299,344",650,"$7,460,159",Dec 21,Yash Raj Films USA Inc.
+125,Accidental Texan,,"$292,516",134,"$292,516",Mar 8,Roadside Attractions
+126,Spider-Man: Across the Spider-Verse,2024 Re-release,"$282,435",466,"$282,435",Jan 19,Sony Pictures Releasing
+127,We Grown Now,,"$275,741",340,"$275,740",Apr 19,Sony Pictures Releasing
+128,Housekeeping for Beginners,,"$271,065",251,"$271,065",Apr 5,Focus Features
+129,The Promised Land,,"$257,749",192,"$257,749",Feb 2,Magnolia Pictures
+130,Noryang: Deadly Sea,,"$244,984",29,"$315,245",Dec 22,Well Go USA Entertainment
+131,Nostalghia,2024 Re-release,"$242,185",11,"$215,632",Feb 21,Kino Lorber
+132,The Sweet East,,"$241,726",41,"$331,860",Dec 1,Utopia
+133,Animal,,"$227,253",698,"$15,004,482",Dec 1,-
+134,Asphalt City,,"$220,970",298,"$220,970",Mar 29,-
+135,It's Only Life After All,,"$208,079",98,"$208,079",Apr 10,Oscilloscope
+136,Taylor Swift: The Eras Tour,,"$199,943","3,855","$180,756,269",Oct 13,-
+137,Irena's Vow,,"$199,186",73,"$1,096,197",Apr 15,Quiver Distribution
+138,I Did It My Way,,"$198,405",36,"$198,405",Jan 12,Well Go USA Entertainment
+139,The Shift,,"$192,985","2,450","$12,118,219",Dec 1,Angel Studios
+140,Femme,,"$184,553",106,"$184,553",Mar 22,Utopia
+141,Saltburn,,"$169,317","1,566","$11,425,829",Nov 17,Warner Bros.
+142,Mars Express,,"$167,678",295,"$167,678",May 3,GKIDS
+143,The Monk and the Gun,,"$165,470",101,"$165,470",Feb 2,A Contracorriente Films
+144,Evil Does Not Exist,,"$161,109",60,"$161,109",May 3,Janus Films
+145,The Samurai,,"$155,763",16,"$155,763",Mar 29,Janus Films
+146,Weak Layers,,"$154,445",65,"$154,445",Jan 5,Greenwich Entertainment
+147,No Way Up,,"$148,582",78,"$148,582",Feb 16,Nashe Kino
+148,The Peasants,,"$143,690",251,"$155,188",Jan 26,Sony Pictures Classics
+149,A Fragile Flower,,"$140,300",55,"$140,300",Mar 29,Atlas Distribution Company
+150,Remembering Gene Wilder,,"$139,275",40,"$145,133",Mar 15,Kino Lorber
+151,A Cat's Life,,"$138,620",325,"$138,620",Mar 29,Blue Fox Entertainment
+152,Wildcat,,"$133,373",6,"$62,095",May 3,Oscilloscope
+153,Fallen Leaves,,"$131,333",68,"$954,307",Nov 17,MUBI
+154,Poolman,,"$131,000",162,"$131,000",May 10,Vertical Entertainment
+155,Sometimes I Think About Dying,,"$130,457",16,"$130,457",Jan 26,Oscilloscope
+156,How to Have Sex,,"$125,605",77,"$167,725",Feb 2,MUBI
+157,Shinda Shinda No Papa,,"$124,000",102,"$124,000",May 10,-
+158,Dream Scenario,,"$123,639","1,578","$5,742,193",Nov 10,A24
+159,About Dry Grasses,,"$118,988",23,"$118,955",Feb 23,Sideshow Releasing
+160,Monster,,"$117,131",15,"$434,585",Nov 22,Well Go USA Entertainment
+161,The Old Oak,,"$113,861",34,"$157,418",Apr 5,Kino Lorber
+162,God & Country,,"$108,385",85,"$108,385",Feb 16,Oscilloscope
+163,Thanksgiving,,"$108,111","3,204","$31,908,884",Nov 17,TriStar Pictures
+164,Stress Positions,,"$101,741",17,"$101,741",Apr 19,-
+165,Stop Making Sense,2023  Re-release,"$101,238",786,"$5,211,310",Sep 22,-
+166,Carol Doda Topless at the Condor,,"$99,356",42,"$99,356",Mar 22,Picturehouse
+167,Four Daughters,,"$93,029",15,"$137,180",Oct 27,Kino Lorber
+168,The Crime Is Mine,,"$92,688",19,"$109,587",Dec 25,Music Box Films
+169,Aggro Dr1ft,,"$91,800",20,"$91,800",May 10,-
+170,Totem,,"$89,807",12,"$100,150",Jan 26,Janus Films
+171,Io Capitano,,"$88,190",67,"$150,048",Feb 23,Cohen Media Group
+172,Fitting In,,"$87,995",185,"$87,995",Feb 2,Blue Fox Entertainment
+173,Ennio,,"$77,745",20,"$77,745",Feb 9,Music Box Films
+174,DogMan,,"$76,395",63,"$76,395",Mar 29,Briarcliff Entertainment
+175,Ryuichi Sakamoto: Opus,,"$73,365",11,"$86,351",Mar 15,Janus Films
+176,Radical,,"$66,432",534,"$8,702,731",Nov 3,Pantelion Films
+177,Inside the Yellow Cocoon Shell,,"$65,093",10,"$74,342",Jan 19,Kino Lorber
+178,Menus-Plaisirs - Les Troisgros,,"$63,495",12,"$140,348",Nov 22,Zipporah Films
+179,One from the Heart: Reprise,2024 Re-release,"$60,756",7,"$60,756",Jan 19,Rialto Pictures
+180,Alienoid: The Return to the Future,,"$60,720",29,"$60,720",Jan 26,Well Go USA Entertainment
+181,Priscilla,,"$60,447","2,361","$20,960,939",Oct 27,A24
+182,Do Not Expect Too Much from the End of the World,,"$60,038",14,"$73,983",Mar 22,MUBI
+183,Shayda,,"$58,417",13,"$61,617",Mar 1,Sony Pictures Releasing
+184,They Shot the Piano Player,,"$58,171",270,"$59,490",Feb 23,Sony Pictures Releasing
+185,High & Low - John Galliano,,"$57,981",12,"$66,511",Mar 8,MUBI
+186,The Feeling That the Time for Doing Something Has Passed,,"$57,163",37,"$57,163",Apr 26,Magnolia Pictures
+187,"Nosotros, los De la Fe",,"$50,797",27,"$50,797",Mar 14,CanZion Films
+188,Nowhere Special,,"$48,330",31,"$48,330",Apr 26,Cohen Media Group
+189,Humane,,"$44,509",56,"$44,509",Apr 26,IFC Films
+190,The Last Stop in Yuma County,,"$41,520",45,"$41,520",May 10,Well Go USA Entertainment
+191,The Oath,,"$41,443",640,"$509,470",Dec 8,Freestyle Releasing
+192,Riddle of Fire,,"$41,168",28,"$54,671",Mar 22,Yellow Veil Pictures
+193,Limbo,,"$40,915",12,"$40,915",Mar 22,Music Box Films
+194,Thabo and the Rhino Case,,"$40,093",204,"$40,093",May 3,Purdie Distribution
+195,The Stolen Valley,,"$38,909",88,"$38,909",Feb 23,Blue Fox Entertainment
+196,Popular Theory,,"$38,781",93,"$38,781",Feb 9,Blue Fox Entertainment
+197,Classe Tous Risques,2024 Re-release,"$37,515",2,"$37,515",Mar 15,Rialto Distribution
+198,The Absence of Eden,,"$37,265",110,"$37,265",Apr 12,Vertical Entertainment
+199,Force of Nature: The Dry 2,,"$36,609",153,"$36,609",May 10,IFC Films
+200,Red Right Hand,,"$35,368",50,"$35,368",Feb 23,Magnolia Pictures
