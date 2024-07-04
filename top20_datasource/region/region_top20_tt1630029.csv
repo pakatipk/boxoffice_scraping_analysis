@@ -1,0 +1,50 @@
+Country,Release Date,Opening,Gross,Region,ID
+Domestic,"Dec 16, 2022","$134,100,226","$684,075,767",Domestic,tt1630029
+France,"Dec 14, 2022","$13,922,403","$157,099,579","Europe, Middle East, and Africa",tt1630029
+Germany,"Dec 14, 2022","$16,837,927","$148,204,213","Europe, Middle East, and Africa",tt1630029
+United Kingdom,"Dec 16, 2022","$13,590,332","$93,320,842","Europe, Middle East, and Africa",tt1630029
+Spain,"Dec 16, 2022","$7,967,393","$54,533,887","Europe, Middle East, and Africa",tt1630029
+Italy,"Dec 14, 2022","$8,991,132","$48,025,161","Europe, Middle East, and Africa",tt1630029
+Netherlands,"Dec 15, 2022","$2,971,473","$31,602,957","Europe, Middle East, and Africa",tt1630029
+Switzerland,"Dec 14, 2022","$3,125,639","$22,580,492","Europe, Middle East, and Africa",tt1630029
+Belgium,"Dec 14, 2022","$2,452,894","$19,975,731","Europe, Middle East, and Africa",tt1630029
+Poland,"Dec 16, 2022","$2,397,208","$19,850,852","Europe, Middle East, and Africa",tt1630029
+Austria,"Dec 14, 2022","$2,401,477","$18,215,675","Europe, Middle East, and Africa",tt1630029
+Sweden,"Dec 14, 2022","$3,011,447","$18,118,773","Europe, Middle East, and Africa",tt1630029
+Denmark,"Dec 14, 2022","$3,171,767","$18,038,987","Europe, Middle East, and Africa",tt1630029
+Czech Republic,"Dec 15, 2022","$2,092,408","$14,051,012","Europe, Middle East, and Africa",tt1630029
+United Arab Emirates,"Dec 15, 2022","$3,149,747","$13,214,359","Europe, Middle East, and Africa",tt1630029
+Norway,"Dec 16, 2022","$1,543,319","$11,426,486","Europe, Middle East, and Africa",tt1630029
+Portugal,"Dec 15, 2022","$1,289,567","$8,468,608","Europe, Middle East, and Africa",tt1630029
+Romania,"Dec 16, 2022","$1,357,702","$8,336,477","Europe, Middle East, and Africa",tt1630029
+Türkiye,"Dec 16, 2022","$1,792,615","$6,950,007","Europe, Middle East, and Africa",tt1630029
+Hungary,"Dec 15, 2022","$1,009,800","$6,856,155","Europe, Middle East, and Africa",tt1630029
+Finland,"Dec 14, 2022","$919,034","$5,900,171","Europe, Middle East, and Africa",tt1630029
+Ukraine,"Dec 15, 2022",–,"$5,463,970","Europe, Middle East, and Africa",tt1630029
+South Africa,"Dec 16, 2022","$772,239","$4,831,888","Europe, Middle East, and Africa",tt1630029
+Bulgaria,"Dec 16, 2022","$505,777","$3,768,237","Europe, Middle East, and Africa",tt1630029
+Slovakia,"Dec 15, 2022","$622,505","$3,431,643","Europe, Middle East, and Africa",tt1630029
+Lithuania,"Dec 16, 2022","$361,161","$2,915,544","Europe, Middle East, and Africa",tt1630029
+Croatia,"Dec 15, 2022","$325,221","$2,045,138","Europe, Middle East, and Africa",tt1630029
+Serbia and Montenegro,"Dec 15, 2022","$432,816","$2,010,869","Europe, Middle East, and Africa",tt1630029
+Slovenia,"Dec 15, 2022","$238,281","$1,794,840","Europe, Middle East, and Africa",tt1630029
+Iceland,"Dec 16, 2022","$118,522","$861,037","Europe, Middle East, and Africa",tt1630029
+Mexico,"Dec 16, 2022","$13,457,970","$55,975,947",Latin America,tt1630029
+Brazil,"Dec 15, 2022","$8,646,797","$46,007,305",Latin America,tt1630029
+Argentina,"Dec 15, 2022","$2,357,235","$17,364,282",Latin America,tt1630029
+Colombia,"Dec 15, 2022","$2,589,143","$14,792,462",Latin America,tt1630029
+Chile,"Dec 15, 2022","$2,345,003","$13,958,371",Latin America,tt1630029
+South Korea,"Dec 14, 2022","$19,266,473","$108,045,923",Asia Pacific,tt1630029
+Australia,"Dec 15, 2022","$9,855,736","$61,655,708",Asia Pacific,tt1630029
+India,"Dec 16, 2022","$19,153,502","$59,554,397",Asia Pacific,tt1630029
+Japan,"Dec 16, 2022","$4,727,204","$32,525,343",Asia Pacific,tt1630029
+Taiwan,"Dec 15, 2022","$5,071,377","$24,409,248",Asia Pacific,tt1630029
+Indonesia,"Dec 14, 2022","$4,902,818","$20,615,163",Asia Pacific,tt1630029
+Hong Kong,"Dec 14, 2022","$3,871,699","$18,470,230",Asia Pacific,tt1630029
+Thailand,"Dec 14, 2022","$5,219,725","$16,776,706",Asia Pacific,tt1630029
+Malaysia,"Dec 15, 2022","$2,998,431","$12,283,975",Asia Pacific,tt1630029
+New Zealand,"Dec 15, 2022","$2,138,254","$12,206,394",Asia Pacific,tt1630029
+Philippines,"Dec 14, 2022","$2,761,472","$11,555,693",Asia Pacific,tt1630029
+Vietnam,"Dec 15, 2022","$2,568,365","$11,418,748",Asia Pacific,tt1630029
+Singapore,"Dec 15, 2022","$1,948,937","$8,844,118",Asia Pacific,tt1630029
+China,"Dec 16, 2022","$56,798,896","$245,996,272",China,tt1630029
